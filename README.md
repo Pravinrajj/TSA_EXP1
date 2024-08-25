@@ -10,7 +10,7 @@ To Develop a python program to Plot a time series data of XAUUSD
 4. Plot the data according to need and can be altered monthly, or yearly.
 5. Display the graph.
 # PROGRAM:
-``py
+```py
 import pandas as pd
 import matplotlib.pyplot as plt
 
