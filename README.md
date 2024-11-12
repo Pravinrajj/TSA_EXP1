@@ -1,8 +1,5 @@
-## Developed by: PRAVINRAJJ G.K
-## Register no: 212222240080
-
 # Ex.No: 01A PLOT A TIME SERIES DATA
-###  Date: 25-08-24
+###  Date:
 
 # AIM:
 To Develop a python program to Plot a time series data of XAUUSD
